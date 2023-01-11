@@ -15,7 +15,7 @@ Pour en savoir plus sur les dev-container rendez vous [ici](https://code.visuals
 
 ### Prérequis
 
-* Avoir docker installer sur son poste [voir ici pour instruction d'installtion selon platforme](https://docs.docker.com/get-docker/)
+* Avoir docker installé sur son poste [voir ici pour instruction d'installtion selon platforme](https://docs.docker.com/get-docker/)
 * Installer l'extension [dev-container](vscode:extension/ms-vscode-remote.remote-containers)
 
 ### Lancer le dev-container
@@ -27,7 +27,7 @@ Pour en savoir plus sur les dev-container rendez vous [ici](https://code.visuals
 * Une fois fini vous pouvez ouvrir un notebook pour être sur que tout fonctionne
 
 
-## Installation sur une machine linux unbuntu >= 18.04
+## Installation sur une machine linux Ubuntu >= 18.04
 
 ### Pré requis
 * Extension VScode python/jupyter
@@ -35,7 +35,7 @@ Pour en savoir plus sur les dev-container rendez vous [ici](https://code.visuals
 * Linux
 
 ### Creation d'un environnement virtuel
-A la racine de votre dossier, créer et activé un nouveau environnement virtuel python
+A la racine de votre dossier, créer et activer un nouveau environnement virtuel python
 ```shell
 python3 -m venv .venv
 source .venv/bin/activate
